@@ -8,11 +8,17 @@ A discord token nuker
 tRape is a slightly buggy yet powerful discord token nuking tool
 
 tRape can: 
+
 leave and delete all servers that a user is in / owns
+
 create tons of spam servers
+
 unfriend all of a user's friends
+
 flashbang - constantly switch between light and dark mode settings (pain)
+
 show token info
+
 
 How to new line?
 
